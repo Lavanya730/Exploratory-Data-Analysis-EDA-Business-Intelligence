@@ -1,0 +1,26 @@
+﻿Order_ID,Order_Date,Customer_ID,Customer_Name,Age,Gender,Region,Product_Category,Product_Name,Quantity,Price,Revenue,Payment_Method
+1001,05-01-2024,C101,Ravi Kumar,25,Male,South,Electronics,Mobile,2,15000,30000,UPI
+1002,06-01-2024,C102,Anjali Sharma,30,Female,North,Fashion,Saree,3,2000,6000,Card
+1003,07-01-2024,C103,Kiran Rao,28,Male,East,Electronics,Laptop,1,55000,55000,Net Banking
+1004,08-01-2024,C104,Pooja Reddy,35,Female,West,Home,Microwave,1,8000,8000,UPI
+1005,10-01-2024,C105,Arjun Das,22,Male,South,Fashion,T-Shirt,4,500,2000,Cash
+1006,12-01-2024,C106,Sneha Patel,27,Female,North,Beauty,Makeup Kit,2,1500,3000,Card
+1007,15-01-2024,C107,Vikram Singh,40,Male,East,Electronics,Tablet,1,20000,20000,UPI
+1008,18-01-2024,C108,Divya Nair,29,Female,West,Home,Refrigerator,1,30000,30000,Net Banking
+1009,20-01-2024,C109,Rahul Verma,32,Male,South,Electronics,Headphones,3,2000,6000,UPI
+1010,25-01-2024,C110,Meena Iyer,26,Female,North,Fashion,Handbag,2,2500,5000,Card
+1011,02-02-2024,C111,Sai Teja,24,Male,South,Electronics,Smartwatch,2,7000,14000,UPI
+1012,05-02-2024,C112,Neha Joshi,31,Female,West,Beauty,Perfume,3,1800,5400,Card
+1013,08-02-2024,C113,Amit Shah,45,Male,North,Home,Washing Machine,1,25000,25000,Net Banking
+1014,10-02-2024,C114,Lakshmi Priya,23,Female,East,Fashion,Kurti,5,1200,6000,UPI
+1015,15-02-2024,C115,Rohan Mehta,38,Male,South,Electronics,Camera,1,45000,45000,Card
+1016,18-02-2024,C116,Keerthi Rani,29,Female,West,Home,Air Conditioner,1,40000,40000,Net Banking
+1017,22-02-2024,C117,Manoj Kumar,34,Male,East,Electronics,Speaker,2,5000,10000,UPI
+1018,25-02-2024,C118,Asha Devi,41,Female,North,Beauty,Hair Dryer,2,2500,5000,Card
+1019,02-03-2024,C119,Suresh Babu,36,Male,South,Home,Sofa,1,35000,35000,UPI
+1020,05-03-2024,C120,Nikita Roy,28,Female,West,Fashion,Jeans,3,1500,4500,Cash
+1021,08-03-2024,C121,Praveen Kumar,27,Male,East,Electronics,Monitor,2,12000,24000,Card
+1022,12-03-2024,C122,Ritu Sharma,33,Female,North,Beauty,Face Cream,4,800,3200,UPI
+1023,15-03-2024,C123,Harsha Vardhan,30,Male,South,Electronics,Keyboard,3,1500,4500,Card
+1024,18-03-2024,C124,Shruti Menon,26,Female,West,Home,Table,1,7000,7000,Net Banking
+1025,22-03-2024,C125,Naveen Rao,39,Male,East,Electronics,Printer,1,18000,18000,UPI
